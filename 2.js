@@ -5,7 +5,7 @@ let num2=1;
 let temp=0;
 for(let i=0;i<=n;i++)
 { 
-    document.write("\n"+num1);
+    document.write("<br>"+num1);
     temp=num1+num2;
     num1=num2;
     num2=temp;

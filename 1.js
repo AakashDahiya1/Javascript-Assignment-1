@@ -8,6 +8,6 @@ for(let i=0;i<numbers.length;i++)
     sum=sum+numbers[i];
 }
 document.write(sum);
-document.write('\n');
+document.write("<br>");
 
 
